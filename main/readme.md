@@ -1,0 +1,1 @@
+**Note: in this folder will be placed the primary code for the kaiju app. All code within the sql folder will be generalized to be non-project specific. Allowing it to work within any PHP project for login/session id managment.
